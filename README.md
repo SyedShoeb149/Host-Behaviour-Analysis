@@ -17,7 +17,7 @@ The project involved combining different datasets using SQL and conducting analy
 * Property Type
 * Ratings
 # Exploratory Data Analysis
-In this project, we have 2 Countries data and each country contains 2 cities.
+
 ## Greece
 * Athens
   
@@ -33,11 +33,17 @@ Here we can see that the Super host plays very well in response rate and booking
 
 * Ratings of Greece
 
-![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/369ef9a3-b5b1-458e-bb9e-a65cb597dc31)
+![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/700076d6-e345-44fc-80b7-4432d9bb9e0c)
 
-Here we can see that the Super host holds a high number of positive comments 
+
+Here we can see that the Super host holds a high number of positive comments. 
 
 # Insights
 * Booking acceptance should be improved for Non-Super Hosts.
 * Host should have a profile pic and verified identity.
 * Non-Super Hosts performance should be improved by considering Ratings.
+# Challenges & Learnings
+* Faced issues while importing the Datasets into SQL due to inappropriate datatype.
+* Taking string data into consideration.
+* Joining tasks that are individually assigned.
+* Team management

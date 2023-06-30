@@ -1,12 +1,43 @@
 # Host Behavior Analysis in the Hospitality Industry
-![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/2f7110c4-ac96-4f0c-9e3d-a960ab16a731)
-![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/5f35eb85-19c1-49d1-8c8c-38153e180dd2)
+## Introduction
+This project aims to provide valuable insights into host behavior within the hospitality industry. By uncovering key differences between super hosts and other hosts and offering actionable recommendations for improvement, we contribute to the enhancement of the hosting experience and the success of hosts in this dynamic industry.
+## Problem Statement
+The Property Rental Company is facing challenges in increasing its business and attracting more customers. They are looking for effective strategies to expand their operations and enhance their market presence.
+## Solution
+Analyzing the behavior of different hosts to gain insights on a variety of metrics.
+## Strategy
+The project involved combining different datasets using SQL and conducting analysis to generate meaningful insights. The findings were then presented in a visually appealing report created in Excel.
 
 
+## Performance Metrics
+* Identity Verified
+* Response Times
+* Bookings Acceptance Rate
+* Number of listings
+* Property Type
+* Ratings
+# Exploratory Data Analysis
+In this project, we have 2 Countries data and each country contains 2 cities.
+## Greece
+* Athens
+  
+![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/615c257b-d26b-4cc8-8c81-affc94296e07)
 
-This repository contains an analysis of host behavior in the hospitality industry, focusing on the differences in behavior and performance between super hosts and other hosts. The study utilized a dataset comprising both super hosts and non-super hosts to identify key distinctions in their performance and behaviors.
-# Project Highlights
-* Performance Metrics: Various performance metrics, including ratings, response times, and bookings, were utilized to compare the behavior and performance of super hosts and other hosts.
-* Data Analysis Techniques: Data extraction, transformation, and visualization techniques were employed using SQL and Excel to analyze and present the dataset effectively.
-* Key Findings: The analysis identified significant differences in behavior between super hosts and other hosts. Super hosts exhibited higher ratings, more bookings, and faster response times compared to non-super hosts.
-* Insights and Recommendations: The project generated valuable insights into areas where non-super hosts can improve their performance. These insights include suggestions such as enhancing response times and the quality of their listings.
+Here we can see that the Super host plays very well in response rate and booking acceptance rate which is very crucial than other metrics.
+
+* Thessaloniki
+
+![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/d942cafc-064b-4886-872d-d460da3f2331)
+
+Here we can see that the Super host plays very well in response rate and booking acceptance rate, and identity verification which is very crucial than other metrics.
+
+* Ratings of Greece
+
+![image](https://github.com/SyedShoeb149/Host-Behaviour-Analysis/assets/112200757/369ef9a3-b5b1-458e-bb9e-a65cb597dc31)
+
+Here we can see that the Super host holds a high number of positive comments 
+
+# Insights
+* Booking acceptance should be improved for Non-Super Hosts.
+* Host should have a profile pic and verified identity.
+* Non-Super Hosts performance should be improved by considering Ratings.

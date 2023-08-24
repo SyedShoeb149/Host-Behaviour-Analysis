@@ -41,7 +41,8 @@ Here we can see that the Super host holds a high number of positive comments.
 # Insights
 * Booking acceptance should be improved for Non-Super Hosts.
 * Host should have a profile pic and verified identity.
-* Non-Super Hosts performance should be improved by considering Ratings.
+* Non-Super Host's performance should be improved by considering Ratings.
+* The Company can plan for training programs for other variety of metrics to improve performance.
 # Challenges & Learnings
 * Faced issues while importing the Datasets into SQL due to inappropriate datatype.
 * Taking string data into consideration.
